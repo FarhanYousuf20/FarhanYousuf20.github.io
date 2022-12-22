@@ -1,0 +1,17 @@
+body {
+        background-color: rgb(170, 186, 201);
+}
+
+.img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.heading {
+        text-align: center;
+}
+
+.divi {
+        text-align: center;
+}
